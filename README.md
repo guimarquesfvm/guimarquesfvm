@@ -2,7 +2,7 @@
 
 <img src="https://user-images.githubusercontent.com/57133330/188281408-c67df9ee-fd1f-4b37-833b-f02848f1ce02.gif" width="250" align="right"/>
   <p align="left">
-     Olá! Meu nome é Guilherme Marques (Gui), tenho 22 anos, sou natural de Mamanguape-PB e resido atualmente em Mogeiro-PB.
+     Olá! Meu nome é Guilherme Marques, tenho 22 anos, sou natural de Mamanguape-PB e resido atualmente em Mogeiro-PB.
      Após uma longa experiência com atendimento de clientes e rotinas administrativas num negócio de família, finalmente tive a oportunidade de começar a aprender mais sobre o (incrível) mundo da tecnologia.
      Sou Desenvolvedor Web Front-End formado na Trybe e atualmente estou aprofundando meus conhecimentos em Back-end e Ciência da Computação.
   </p>
