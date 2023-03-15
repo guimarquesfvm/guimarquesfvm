@@ -68,6 +68,6 @@ export default {
 <h3> :earth_americas: &nbsp;Onde me encontrar: </h3> 
 
 
-[![Linkedin: Guilherme Marques](https://img.shields.io/badge/-Me siga no Linkedin!-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/guimarquesfvm/)](https://www.linkedin.com/in/guimarquesfvm/)
+[![Linkedin: Guilherme Marques](https://img.shields.io/badge/-guimarquesfvm-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/guimarquesfvm/)](https://www.linkedin.com/in/guimarquesfvm/)
 [![Gmail Badge](https://img.shields.io/badge/-seuemail@email.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:SEU-EMAIL)](mailto:SEU-EMAIL)
 [![GitHub SEU NOME]( https://img.shields.io/github/followers/VanessaSwerts?label=follow&style=social)](LINK-DO-SEU-GITHUB)
