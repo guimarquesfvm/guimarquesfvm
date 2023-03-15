@@ -67,7 +67,7 @@ export default {
 
 <h3> :earth_americas: &nbsp;Onde me encontrar: </h3> 
 
-[![Linkedin: Guilherme Marques](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/guimarquesfvm/)(https://www.linkedin.com/in/guimarquesfvm/)
+![Linkedin: Guilherme Marques](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/guimarquesfvm/)
 
 [![Linkedin: Guilherme Marques](https://img.shields.io/badge/-guimarquesfvm-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/guimarquesfvm/)](https://www.linkedin.com/in/guimarquesfvm/)
 
