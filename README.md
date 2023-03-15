@@ -1,6 +1,4 @@
-### Olá! Bem-vindo ao meu GitHub! 👋
-
-# <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30" /> Eai, Bem-vindo ao meu github!
+### Olá! Bem-vindo ao meu GitHub! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30" />
 
 <img src="https://user-images.githubusercontent.com/57133330/188281408-c67df9ee-fd1f-4b37-833b-f02848f1ce02.gif" width="250" align="right"/>
   <p align="left">
