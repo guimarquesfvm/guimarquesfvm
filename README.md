@@ -10,8 +10,7 @@
 
 ## 💫 Sobre mim
 
-- 🤔 &nbsp; Explorando novas tecnologias e desenvolvendo soluções de software.
-  e sou apaixonado por tecnologia, jogos, animes e literatura em geral.
+- 🤔 &nbsp; Sou músico e apaixonado por animes e jogos que exploram a criatividade.
 - 🎓 &nbsp; Estudando **Desenvolvimento Web FullStack** no <a href="https://www.betrybe.com">TRYBE</a>.
 - 💼 &nbsp; Open to Work!
 - 🌱 &nbsp; Aprendendo mais sobre **Back-End e suas Tecnologias**.
