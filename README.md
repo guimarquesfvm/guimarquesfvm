@@ -22,7 +22,8 @@ export default {
        muito aprendizado em comunicação e negociação, eu finalmente pude começar a me dedicar de fato
        a área de tecnologia, que é minha verdadeira paixão.
        Atualmente estudo Desenvolvimento Web Fullstack na Trybe.`,
-    myObjective: `Continuar aprimorando meus conhecimentos como desenvolvedor Front-End e começar meus estudos na área de Back-End.
+    myObjective: `Continuar aprimorando meus conhecimentos como desenvolvedor Front-End
+    e começar meus estudos na área de Back-End.
     Assim, podendo contribuir com meus conhecimentos para um mundo melhor.`,
   },
   skills: {
