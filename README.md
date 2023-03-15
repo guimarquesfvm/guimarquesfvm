@@ -5,6 +5,7 @@
      Meu nome é Guilherme Marques, tenho 22 anos, sou natural de Mamanguape-PB e resido atualmente em Mogeiro-PB.
      Após uma longa experiência com atendimento de clientes e rotinas administrativas num negócio de família, finalmente tive a oportunidade de começar a aprender mais sobre o (incrível) mundo da tecnologia.
     <br/>
+    <br/>
      Sou Desenvolvedor Web Front-End formado na Trybe e atualmente estou aprofundando meus conhecimentos em Back-end e Ciência da Computação.
   </p>
 
