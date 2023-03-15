@@ -29,7 +29,7 @@ Meu nome é Pedro Henrique Pires mas também podem me chamar de Sincero, tenho 2
   </p>
 
 
-![](https://komarev.com/ghpvc/?username=VanessaSwerts&color=006bed)
+![](https://komarev.com/ghpvc/?username=guimarquesfvm&color=006bed)
 
 ## 💫 Sobre mim
 
