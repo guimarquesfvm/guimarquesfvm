@@ -21,6 +21,12 @@ export default {
   },
 };
 ```
+<img src="https://user-images.githubusercontent.com/57133330/188281408-c67df9ee-fd1f-4b37-833b-f02848f1ce02.gif" width="120" align="right"/>
+  <p align="left">
+Meu nome é Pedro Henrique Pires mas também podem me chamar de Sincero, tenho 23 anos e sou apaixonado por tecnologia, desenvolvimento de sistemas e rpg maker.
+     Sou desenvolvedor web fullstack formado na Trybe e atualmente estou aprofundando meus conhecimentos em Front-end.
+     Sou de Diadema-SP que faz parte do ABC paulista,  gosto muito de rpg de mesa e sempre quando tem oportunidade eu mestro uma aventura com os meus amigos. Adoro contribuir com projetos e ajudar meus amigos nos desafios do dia a dia, principalmente quando envolve código.
+  </p>
 
 
 ![](https://komarev.com/ghpvc/?username=VanessaSwerts&color=006bed)
