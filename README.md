@@ -67,6 +67,10 @@ export default {
 
 <h3> :earth_americas: &nbsp;Onde me encontrar: </h3> 
 
-<a href="https://www.linkedin.com/in/guimarquesfvm/" target="_blank">
-<img src="https://img.shields.io/badge/linkedin: guimarquesfvm-%2300acee.svg?color=405DE6&style=for-the-badge&logo=linkedin&logoColor=white" alt=linkedin style="margin-bottom: 5px;"/>
+<a href="https://www.linkedin.com/in/guimarquesfvm/" target="blank">
+<img src="https://img.shields.io/badge/linkedin:  guimarquesfvm-%2300acee.svg?color=405DE6&style=for-the-badge&logo=linkedin&logoColor=white" alt=linkedin style="margin-bottom: 5px;"/>
+</a>
+
+<a href="mailto:guimarquesjob@gmail.com" target="blank">
+<img src="https://img.shields.io/badge/gmail:  guimarquesjob@gmail.com-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white" t=mail style="margin-bottom: 5px;" />
 </a>
