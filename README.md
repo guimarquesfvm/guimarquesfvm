@@ -12,20 +12,6 @@ export default {
   from: 'Mogeiro, PB, Brasil',
   profession: 'Desenvolvedor Web Front-End',
   hobbies: ['Cultura Pop', 'Cinema', 'Literatura', 'Games', 'Animes'],
-  email: 'guimarquesjob@gmail.com',
-  linkedin: 'https://www.linkedin.com/in/guimarquesfvm/',
-  contato: '(83) 98195-6825',
-  description: {
-    myProfile: `Tenho 22 anos, natural de Mamanguape PB, residindo em Mogeiro PB.
-       Após um longo período trabalhando com atendimento de clientes, gestão financeira
-       e rotinas administrativas em um negócio de família, período esse que me proporcionou
-       muito aprendizado em comunicação e negociação, eu finalmente pude começar
-       a me dedicar de fato a área de tecnologia, que é minha verdadeira paixão.
-       Atualmente estudo Desenvolvimento Web Fullstack na Trybe.`,
-    myObjective: `Continuar aprimorando meus conhecimentos como desenvolvedor Front-End
-    e começar meus estudos na área de Back-End.
-    Assim, podendo contribuir com meus conhecimentos para um mundo melhor.`,
-  },
   skills: {
     frontend: [
       'HTML5', 'CSS3', 'Javascript', 'Jest',
