@@ -32,7 +32,7 @@ export default {
 - 💼 &nbsp; Open to Work!
 - 🌱 &nbsp; Aprendendo mais sobre **Back-End e suas Tecnologias**.
 
-## <h3> 💻 Minhas Skills </h3>
+## 💻 Minhas Skills
 
 **Aplicações e Dados**
 
@@ -62,7 +62,7 @@ export default {
 
 <br/>
 
-## <h3> :earth_americas: &nbsp;Onde me encontrar: </h3> 
+## 🌟 Fale comigo!
 
 <a href="https://www.linkedin.com/in/guimarquesfvm/" target="blank">
 <img src="https://img.shields.io/badge/linkedin:  guimarquesfvm-%2300acee.svg?color=405DE6&style=for-the-badge&logo=linkedin&logoColor=white" alt=linkedin style="margin-bottom: 5px;"/>
