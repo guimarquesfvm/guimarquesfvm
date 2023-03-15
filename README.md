@@ -19,8 +19,8 @@ export default {
     myProfile: `Tenho 22 anos, natural de Mamanguape PB, residindo em Mogeiro PB.
        Após um longo período trabalhando com atendimento de clientes, gestão financeira
        e rotinas administrativas em um negócio de família, período esse que me proporcionou
-       muito aprendizado em comunicação e negociação, eu finalmente pude começar a me dedicar de fato
-       a área de tecnologia, que é minha verdadeira paixão.
+       muito aprendizado em comunicação e negociação, eu finalmente pude começar
+       a me dedicar de fato a área de tecnologia, que é minha verdadeira paixão.
        Atualmente estudo Desenvolvimento Web Fullstack na Trybe.`,
     myObjective: `Continuar aprimorando meus conhecimentos como desenvolvedor Front-End
     e começar meus estudos na área de Back-End.
