@@ -25,7 +25,7 @@ export default {
 
 ![](https://komarev.com/ghpvc/?username=VanessaSwerts&color=006bed)
 
-## <h3> 💫 Sobre mim </h3>
+## 💫 Sobre mim
 
 - 🤔 &nbsp; Explorando novas tecnologias e desenvolvendo soluções de software.
 - 🎓 &nbsp; Estudando **Desenvolvimento Web FullStack** no <a href="https://www.betrybe.com">TRYBE</a>.
