@@ -66,6 +66,9 @@ export default {
 <br/>
 
 <h3> :earth_americas: &nbsp;Onde me encontrar: </h3> 
+<a href="https://github.com/guimarquesfvm/">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
 
 ![Linkedin: Guilherme Marques](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/guimarquesfvm/)
 
