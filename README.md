@@ -12,6 +12,13 @@ export default {
   from: 'Mogeiro, PB, Brasil',
   profession: 'Desenvolvedor Web Front-End',
   hobbies: ['Cultura Pop', 'Cinema', 'Literatura', 'Games', 'Animes'],
+  description: {
+    myProfile: `Tenho 26 anos, natural de Itabaiana PB, residindo em João Pessoa PB.
+      Sou formado em ciências contábeis pela UEPB, mas decidi migrar de área, agarrando
+      uma nova perspectiva de futuro para mim através da programação e suas tecnologias.`,
+    myObjective: `Continuar aprimorando meus conhecimentos como desenvolvedor Full Stack,
+      com finalidade de adquirir novas experiências que possam agregar ao meu futuro.`,
+  },
 };
 ```
 
