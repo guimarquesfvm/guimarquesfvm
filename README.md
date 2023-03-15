@@ -12,16 +12,6 @@ export default {
   from: 'Mogeiro, PB, Brasil',
   profession: 'Desenvolvedor Web Front-End',
   hobbies: ['Cultura Pop', 'Cinema', 'Literatura', 'Games', 'Animes'],
-  skills: {
-    frontend: [
-      'HTML5', 'CSS3', 'Javascript', 'Jest',
-      'React', 'Redux', 'Context API', 'Hooks',
-      'RTL', 'Jest',
-    ],
-    tools: [
-      'Git', 'Github',
-    ],
-  },
 };
 ```
 
