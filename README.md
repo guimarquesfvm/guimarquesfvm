@@ -25,14 +25,14 @@ export default {
 
 ![](https://komarev.com/ghpvc/?username=VanessaSwerts&color=006bed)
 
-## <h3> 👨‍🦱 &nbsp;Sobre mim </h3>
+## <h3> 💫 Sobre mim </h3>
 
 - 🤔 &nbsp; Explorando novas tecnologias e desenvolvendo soluções de software.
 - 🎓 &nbsp; Estudando **Desenvolvimento Web FullStack** no <a href="https://www.betrybe.com">TRYBE</a>.
 - 💼 &nbsp; Open to Work!
 - 🌱 &nbsp; Aprendendo mais sobre **Back-End e suas Tecnologias**.
 
-## <h3> :rocket: &nbsp;Minhas Skills </h3>
+## <h3> 💻 Minhas Skills </h3>
 
 **Aplicações e Dados**
 
