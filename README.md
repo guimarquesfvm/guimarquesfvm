@@ -12,7 +12,7 @@
 ## 💫 Sobre mim
 
 - 🤔 &nbsp; Sou músico e apaixonado por animes e jogos que exploram a criatividade.
-- 🎓 &nbsp; Estudando **Desenvolvimento Web FullStack** na <a href="https://www.betrybe.com">TRYBE</a>.
+- 🎓 &nbsp; Estudando **Desenvolvimento Web Back-End e Computer Science** na <a href="https://www.betrybe.com">TRYBE</a>.
 - 💼 &nbsp; **Open to Work!**
 - 🌱 &nbsp; Aprendendo mais sobre a área de **Back-End e suas Tecnologias**.
 
