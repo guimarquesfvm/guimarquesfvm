@@ -1,4 +1,4 @@
-### Olá! Bem-vindo ao meu GitHub! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30" />
+### Olá! Bem-vindo(a) ao meu perfil no GitHub! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30" />
 
 <img src="https://user-images.githubusercontent.com/57133330/188281408-c67df9ee-fd1f-4b37-833b-f02848f1ce02.gif" width="220" align="right"/>
   <p align="left">
@@ -6,15 +6,15 @@
      Após uma longa experiência com atendimento de clientes e rotinas administrativas num negócio de família, finalmente tive a oportunidade de começar a aprender mais sobre o (incrível) mundo da tecnologia.
     <br/>
     <br/>
-     Sou Desenvolvedor Web Front-End formado na Trybe e atualmente estou aprofundando meus conhecimentos em Back-end e Ciência da Computação.
+     Sou Desenvolvedor Web Full-Stack formado na Trybe e atualmente estou reforçando meus conhecimentos em Front-End.
   </p>
 
 ## 💫 Sobre mim
 
-- 🤔 &nbsp; Sou músico e apaixonado por animes e jogos que exploram a criatividade.
-- 🎓 &nbsp; Estudando **Desenvolvimento Web Back-End e Ciência da Computação** na <a href="https://www.betrybe.com">TRYBE</a>.
+- 🤔 &nbsp; Sou músico e apaixonado por livros e jogos que exploram a criatividade.
+- 🎓 &nbsp; Formado em **Desenvolvimento Web Back-End e Ciência da Computação** na <a href="https://www.betrybe.com">TRYBE</a>.
 - 💼 &nbsp; **Open to Work!**
-- 🌱 &nbsp; Aprendendo mais sobre a área de **Back-End e suas Tecnologias**.
+- 🌱 &nbsp; Aprendendo mais sobre a área de **Front-End e suas Tecnologias**.
 
 ## 💻 Minhas Skills
 
